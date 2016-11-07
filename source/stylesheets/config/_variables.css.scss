@@ -19,15 +19,14 @@ $header-font: "Raleway", "Helvetica", "sans-serif";
 // Font-size and line-height
 $base-size: 16px;
 $base-height: 1.4;
-
 /* -------------------------------------
  * Colors
  * ------------------------------------- */
 // Scheme
-$brand-color: #D23333;
+$brand-color: #D4312D;
 
-$red: #EE5F5B;
-$blue: #469AE0;
+$red: #D4312D;
+$blue: #5E74ED;
 $yellow: #FDB631;
 $orange: #E67E22;
 $green: #32B796;
@@ -38,3 +37,5 @@ $gray-dark:    lighten(#000, 20%);   // #333
 $gray:         lighten(#000, 33.5%); // #555
 $gray-light:   lighten(#000, 46.7%); // #777
 $gray-lighter: lighten(#000, 93.5%); // #eee
+
+
